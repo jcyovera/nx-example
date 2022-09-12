@@ -4,7 +4,11 @@
   "projects": {
     "angular-fe": "apps/angular-fe",
     "angular-fe-e2e": "apps/angular-fe-e2e",
+    "angular-lib": "libs/angular-lib",
     "api": "apps/api",
-    "api-interfaces": "libs/api-interfaces"
+    "api-interfaces": "libs/api-interfaces",
+    "react-fe": "apps/react-fe",
+    "react-fe-e2e": "apps/react-fe-e2e",
+    "react-lib": "libs/react-lib"
   }
 }
